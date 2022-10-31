@@ -1,1 +1,1 @@
-Pointers array
+Arrays direct
