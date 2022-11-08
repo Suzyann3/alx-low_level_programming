@@ -35,6 +35,5 @@ num = b;
 
 printf("%d\n", result);
 }
-
-exit(EXIT_SUCCESS)
+exit(EXIT_SUCCESS);
 }
