@@ -1,8 +1,4 @@
-#ifndef FILE_MAIN
-#define FILE_MAIN
-
-int _putchar(char c);
-int _atoi(char *s);
-
+#ifndef _MAIN_H_
+#define _MAIN_H_
 
 #endif
